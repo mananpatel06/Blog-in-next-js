@@ -8,7 +8,7 @@ const AboutPage = () => {
         <h2 className={styles.subTitle}>About Agency</h2>
         <h1 className={styles.title}>We create digital ideas that are bigger, bolder, braver and better.</h1>
         <p className={styles.desc}>We create digital ideas that are bigger, bolder, braver and better. 
-        We have worlds best consulting team.</p>
+        We have worlds best blog consulting team.</p>
 
         <div className={styles.boxes}>
 
@@ -19,7 +19,7 @@ const AboutPage = () => {
 
         <div className={styles.box}>
           <h1>8k +</h1>
-          <p>Project completed</p>
+          <p>Project blog completed</p>
         </div>
 
         <div className={styles.box}>

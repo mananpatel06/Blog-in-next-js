@@ -18,6 +18,11 @@ const LoginForm = () => {
 
   return (
     <form className={styles.form} action={formAction}>
+      <p>
+        Demo :
+      </p>
+      <p>Username : qwe
+      Password: qwe </p>
       <input type="text" placeholder="username" name="username" />
       <input type="password" placeholder="password" name="password" />
       <button>Login</button>

@@ -11,7 +11,7 @@ const Home = () => {
       <div className={styles.textContainer}>
         <h1 className={styles.title}>Creative Thoughts Agency.</h1>
         <p className={styles.desc}>
-        We create digital ideas that are bigger, bolder, braver and better. We have worlds best consulting team.
+        We create digital ideas that are bigger, bolder, braver and better. We have worlds best blog consulting team.
         </p>
 
         <div className={styles.buttons}>
@@ -28,7 +28,7 @@ const Home = () => {
         </div>
       </div>
       <div className={styles.imageContainer}>
-        <Image src="/hero.gif" alt="" fill className={styles.heroImg} />
+        <Image src="/blog.png" alt="" fill className={styles.heroImg} />
       </div>
     </div>
     <br />
